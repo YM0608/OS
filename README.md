@@ -1,3 +1,2 @@
-# OS
-Operating System
-Virtual Memory Simulator
+# OS Virtual Memory Simulator
+
